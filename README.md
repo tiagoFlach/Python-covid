@@ -79,7 +79,7 @@ Plataforma de estudos: [Google Colaboratory](https://colab.research.google.com/n
 
 **Avaliação (parte 1)** | [GitHub](/Avaliação/Avaliação%20(parte%201).md) | [GitHub - Resolvido](/Avaliação/Avaliação%20(parte%201)%20-%20resolvido.md) | [PDF](/Avaliação/Avaliação%20-%20grupo%20de%20estudos%20(parte%201).pdf)
 
-**Avaliação (parte 2)** | [GitHub](/Avaliação/Avaliação%20(parte%202).md) | [GitHub - Resolvido](/Avaliação/Avaliação%20(parte%202)%20-%20resolvido) | [PDF](/Avaliação/Avaliação%20-%20grupo%20de%20estudos%20(parte%202).pdf)
+**Avaliação (parte 2)** | [GitHub](/Avaliação/Avaliação%20(parte%202).md) | [GitHub - Resolvido](/Avaliação/Avaliação%20(parte%202)%20-%20resolvido.md) | [PDF](/Avaliação/Avaliação%20-%20grupo%20de%20estudos%20(parte%202).pdf)
 
 
 # Roteiro de aulas
