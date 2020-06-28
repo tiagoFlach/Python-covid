@@ -182,7 +182,7 @@ Plataforma de estudos: [Google Colaboratory](https://colab.research.google.com/n
 - Funções e While | [GitHub](Notebooks/4.%20Funções%20e%20While.md) | [Google Colaboratory](https://colab.research.google.com/drive/1I8waNG5fCdkGccpMqxDfW_Rb-2MNyp5M)
 
 **Extras:**
-- Code from your browser:[repl.it](repl.it)
+- Code from your browser: [repl.it](repl.it)
 
 
 
